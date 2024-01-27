@@ -1,1 +1,1 @@
-# My-Online-Resume
+# My-Online-Resume (HTML ONLY)
